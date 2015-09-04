@@ -12,6 +12,7 @@ Shipped with program for testing
 examples:
   $ ./simpl isprime.sim 7
   true
+  
   $ ./simpl factorial.sim 5
   240
 
